@@ -1,0 +1,9 @@
+//Javascript Function
+'''
+function name_number(name){
+	var x= name;
+	var y = Math.floor(Math.random()*(15-6+1))+6;
+	return x+y;
+}
+'''
+
